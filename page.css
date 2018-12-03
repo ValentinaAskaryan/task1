@@ -1,0 +1,369 @@
+#heading1{
+	font-family: 'Alex Brush';
+	font-size: 25px;
+    color:pink;
+    margin:0px;
+}
+.div1{
+	text-align: center;
+}
+.fa-certificate{
+	color:pink;
+	margin-left:110px;
+}
+.fa-sun-o{
+	color:pink;
+	margin-left:100px;
+}
+.prt1{
+	display:grid;
+	 grid-template-columns: auto auto;
+	 text-align: center;
+}
+#heading2{
+	margin-top:0px;
+	margin-bottom:0px;
+}
+.button{
+	font-size:10px;
+	padding:5px;
+	color:#6495ED;
+	border:solid 1px ;
+	border-radius: 15px;
+	border-color:#6495ED;
+	background-color:white;
+}
+.button:hover{
+	background-color: #F08080;
+}
+.buttons{
+	text-align:center;
+}
+.fa-calendar,.fa-clock-o,.fa-heart,.fa-minus-circle{
+	color:#F08080;
+}
+.fa-facebook,.fa-instagram,.fa-pinterest,.fa-twitter{
+padding:5px;
+}
+.photographes{
+	display:grid;
+	grid-template-columns:330px 330px 330px;
+	justify-content: center;
+	margin-top:50px;
+}
+.paragraf{
+	font-size:10px;
+	color:#6495ED;
+}
+.ph{
+	width:300px;
+    margin:10px;
+	box-shadow: 2px  2px 5px 5px #E6E6FA;
+	background-color:white;
+	margin-top:-20px;
+}
+#parttwo{
+	background-image: url("http://wallscollection.net/wp-content/uploads/2017/01/Awesome-Beautiful-Sky-Picture-.jpg");
+}
+#photographes1{
+	display: grid;
+	grid-template-columns: 335px 335px 335px;
+	justify-content: center;
+	padding-bottom:5%;
+	margin-top:50px;
+}
+.ph1{width:300px;
+	height:50px;
+    margin:10px;
+	box-shadow: 2px  2px 5px 5px #E6E6FA;}
+.p1{
+	color:#808080;
+	text-align: center;
+}
+.p{ 
+	color:#808080;
+	border-bottom:solid 1px #808080;
+	text-align:center;
+}
+#parththree{
+	background-image: url("https://st3.idealista.com/news/archivos/2018-02/001_.jpg?sv=fpoGhywL");
+	height:560px;
+}
+#parthfour{
+ 	background-image: url("http://www.seekgif.com/thumb/2017/08/wedding-background-images-collection-for-free-download-15.png");
+ 	padding-top:5%;
+ 	margin-bottom:5%;
+ }
+ .generalp{
+ 	color: #F08080;
+ }
+ .p4{
+ 	color:#808080;
+ }
+ #parthfive{
+ 	display:grid;
+ 	margin-bottom:5%;
+    justify-content: center;
+ 	grid-template-columns: 250px 250px 250px 250px;
+}
+.pr5{
+	width:250px;
+	 text-align:center;
+}
+#vid{
+	position:absolute;
+	width: 10%;
+    height: 50%;
+    margin: auto;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    color: #F08080;
+	 margin:auto;
+    font-size:35px;  
+}
+#id1{
+	position:absolute;
+    margin: auto;
+    top: 2px;
+    bottom: 0;
+    right:10px;
+    color: #F08080;
+	margin:auto;
+}
+#tx{
+	position:absolute;
+	color: #F08080;
+    font-size:15px;
+}
+.button1{
+    margin-left:87px;
+    font-size:15px;
+	padding:10px;
+	color:white;
+	border:solid 1px ;
+	border-radius: 15px;
+	background-color:black;
+}
+#in{
+float:right;
+margin-right:25px;
+}
+.button1:hover{
+	background-color:#F08080;
+}
+.number{
+	text-align:center;
+}
+ .info{
+ 	width:300px;
+ 	box-shadow: 2px  2px 5px 5px #E6E6FA;
+	background-color:white;
+ }
+ .button2{
+ 	background-color: white;
+padding:10px;
+ 	border-color:#F08080;
+ 	border-radius: 50%;
+ 	color:#F08080
+ }
+ .button2:hover{
+ 	background-color: #F08080;
+ 	color:white;
+ }
+
+ .info{
+ 	margin-top:50px;
+
+ }
+ #name{
+ 	display:flex;
+ 	justify-content: center;
+ 	padding-bottom:5%;
+ }
+#parthsix{
+	background-image: url("https://files.slack.com/files-pri/TDA0BLX9S-FE0SV0QUR/quick-guide-yoga-05.jpg");
+	background-size:cover;
+}
+
+#part6{text-align:center;
+	color:white;}
+#text{
+	width:300px;
+}
+#general{
+	display:flex;
+ 	justify-content: center;
+ 	padding-top:10%;
+ 	justify-content: 
+ 	space-around;
+}
+.same{
+	font-family: 'Alex Brush';
+	margin-top:0px;
+	margin-bottom:0px;
+	color:white;
+}
+.p8{
+	margin-top:0px;
+	margin-bottom:0px;
+}
+.fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover, .fa-pinterest:hover{
+	color:#F08080 !important;
+}
+.prt7{
+	display:grid; 
+	grid-template-columns:auto auto auto;
+	text-align: center;}
+
+#ulid{
+	list-style-type: none; 
+	margin: 0;
+	padding: 0;
+}
+ li a{
+ 	text-decoration: none;
+ 	color:#808080;
+
+ }
+ li{
+ 	display:inline;
+ 	margin:5px;
+
+ }
+ .p8{
+ 	color:#808080;
+ 	 font-size:10px;
+ }
+ #menu{
+ 	    display: flex;
+    justify-content: center;
+    padding: 5%;
+ }
+ #image{
+ 	display:grid;
+ 	 grid-template-columns:auto auto auto;
+ 	 justify-content: center;
+ 	 margin-top:50px;
+ }
+ #tx{
+ 	position:relative;
+ }
+ #menutxt{
+ 	padding:0 20%;
+ }
+
+
+ @media screen and (max-width: 1000px)
+ {
+ 	.photographes{
+ 		grid-template-columns: auto auto;
+
+ 	}
+ }
+ @media screen and (max-width: 660px)
+ {
+ 	.photographes{
+ 	grid-template-columns: auto;
+ 	}
+ }
+
+ @media screen and (max-width: 350px)
+ {
+ 	.buttons{
+ 		display:inline-block;
+
+ 	}
+
+ }
+
+ @media screen and (max-width: 995px)
+ {
+ 	#photographes1{
+ 		grid-template-columns: auto auto;
+
+ 	}
+ }
+ 	@media screen and (max-width: 690px)
+ {
+ 	#photographes1{
+ 		grid-template-columns: auto;
+ 	}
+ }
+
+ 	@media screen and (max-width: 950px)
+ {
+ 	#parthfive{
+
+ 		grid-template-columns: auto auto;
+ 	}
+ } 	
+ 	@media screen and (max-width: 500px)
+ {
+ 	#parthfive{
+
+ 		display:inline-block;
+ 	}
+ } 	
+
+ @media screen and (max-width:850px)
+ {
+ 	#general{
+    grid-template-columns: auto;
+ 	}
+ }
+  @media screen and (max-width:850px)
+ { #general{
+ 	display:inline-block;
+ 	text-align: center;
+ }
+}
+  @media screen and (max-width:1000px)
+ { 
+   #image{
+   	grid-template-columns: auto auto;
+   }
+ }
+ @media screen and (max-width:700px)
+ { #image{
+ 		grid-template-columns: auto ;
+ }
+  }
+ @media screen and (max-width:850px)
+ { 
+ 	#menu{
+ 	display:inline-block;
+ 	}
+ }
+
+
+ @media screen and (max-width: 850px)
+{
+#menu{
+
+    width: unset;
+    display: inline-block;
+   text-align:center;
+      }
+#fontaw{
+    width: unset;
+        }
+
+#menutxt{
+   text-align: center;
+   width: unset;
+         }
+#ulid{
+    display:block;
+     }
+#tx{
+        width: unset;
+   display: inline-block;
+   position: relative;
+         }
+.fa-location-arrow{
+    text-align: right;
+   margin-right: 10px;
+}
+}
